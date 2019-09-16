@@ -6,3 +6,6 @@ hello world
 
 不使用快进合并（Fsat forward）:
 在dev分支上修改app.txt文件....
+
+Bug分支：
+修改内容....
